@@ -1,4 +1,3 @@
-```markdown
 # James Best
 
 ## About Me
@@ -109,4 +108,3 @@ My goal is to further develop my expertise in digitalization, data analysis, and
 ---
 
 > Technology, data, and practical solutions for creating improvement and value.
-```
